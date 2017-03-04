@@ -1,0 +1,14 @@
+[
+  {
+    "model": "API.Exercises",
+    "pk": 1,
+    "fields": {
+      "name": "Air Bike",
+      "description": "Alternate legs as if riding a bike",
+      "url":"http://www.bodybuilding.com/exercises/exerciseImages/sequences/209/Male/m/209_1.jpg",
+      "muscle_group": 7,
+      "equipment":
+    }
+  }
+
+]

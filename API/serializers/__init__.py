@@ -1,0 +1,10 @@
+from .app_user_serializer import AppUserSerializer
+from .equipment_serializer import EquipmentSerializer
+from .exercises_serializer import ExercisesSerializer
+from .muscle_group_serializer import BodyPartSerializer
+from .exercises_on_workout_serializer import ExercisesOnWorkoutSerializer
+from .workout_type_serializer import WorkoutTypeSerializer
+from .workout_serializer import WorkoutSerializer
+
+
+
